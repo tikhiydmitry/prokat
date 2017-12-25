@@ -1,0 +1,64 @@
+{
+    "additionalFeatures": "LED-огни Кондиционер,электростеклоподьемники", 
+    "engine": {
+        "ob": "2.0", 
+        "type": "Бензин"
+    }, 
+    "availability": [
+        "Полная"
+    ], 
+    "battery": {
+        "standbyTime": "150 Ач", 
+        "talkTime": "1 год", 
+        "type": "A-mega"
+    }, 
+    "trmiss": {
+        "features": [
+            "Полный"
+        ], 
+        "primary": "Автомат"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "", 
+        "gps": true, 
+        "infrared": true, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "BMW X5 — среднеразмерный кроссовер от немецкого автопроизводителя BMW. Автомобиль был представлен в 1999 году на автосалоне в Детройте. Буква «Х» означает, что автомобиль имеет полный привод, а цифра «5» — что базой послужила 5-я серия (BMW E39), однако X5 короче E39, но при этом выше и шире.", 
+    "hodov": {
+        "torpered": "Дисковые вентилируемые", 
+        "torzad": "Дисковые", 
+        "podveska": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "Максимальный", 
+        "mag": "1 GHz Dual Core Tegra 2", 
+        "fmRadio": true, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "bmw-xfive", 
+    "images": [
+        "img/cars/bmwxfive1.jpg", 
+        "img/cars/bmwxfive2.jpg", 
+        "img/cars/bmwxfive3.jpg", 
+        "img/cars/bmwxfive4.jpg", 
+        "img/cars/bmwxfive5.jpg", 
+        "img/cars/bmwxfive6.jpg"
+    ], 
+    "name": "BMW X5", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "4697 мм", 
+            "1882 мм", 
+            "1676 мм"
+        ], 
+        "weight": "2 т"
+    }, 
+    "storage": {
+        "probeg": "100 км", 
+        "maxprobeg": "1000 км"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "additionalFeatures": "LED-огни Кондиционер,электростеклоподьемники", 
+    "engine": {
+        "ob": "2.0", 
+        "type": "Бензин"
+    }, 
+    "availability": [
+        "Полная"
+    ], 
+    "battery": {
+        "standbyTime": "150 Ач", 
+        "talkTime": "1 год", 
+        "type": "A-mega"
+    }, 
+    "trmiss": {
+        "features": [
+            "Полный"
+        ], 
+        "primary": "Автомат"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "", 
+        "gps": true, 
+        "infrared": true, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "Vectra первого поколения пришла в 1988 модельном году на смену устаревшей модели Ascona в среднем классе. Кстати, название Vectra не означает ничего — это была одна из первых машин с полностью «синтетическим» именем, выбранным компьютером.", 
+    "hodov": {
+        "torpered": "Дисковые вентилируемые", 
+        "torzad": "Дисковые", 
+        "podveska": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "Максимальный", 
+        "mag": "1 GHz Dual Core Tegra 2", 
+        "fmRadio": true, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "opel-vectra-c", 
+    "images": [
+        "img/cars/opelvectra1.jpg", 
+        "img/cars/opelvectra2.jpg", 
+        "img/cars/opelvectra3.jpg", 
+        "img/cars/opelvectra4.jpg", 
+        "img/cars/opelvectra5.jpg", 
+        "img/cars/opelvectra6.jpg"
+    ], 
+    "name": "Opel Vectra C", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "4697 мм", 
+            "1882 мм", 
+            "1676 мм"
+        ], 
+        "weight": "2 т"
+    }, 
+    "storage": {
+        "probeg": "100 км", 
+        "maxprobeg": "1000 км"
+    }
+}

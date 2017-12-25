@@ -1,0 +1,159 @@
+[
+    {
+        "age": 0, 
+        "id": "opel-movano", 
+        "imageUrl": "img/cars/opelmovano1.jpg", 
+        "name": "Opel Movano 2014", 
+        "snippet": "Надежный, практичный и экономичный,\r\n\r\nавтомобиль комплектуется современными дизельным двигателем 2,3 CDTI.",
+        "status": true
+    }, 
+    {
+        "age": 1, 
+        "id": "opel-vivaro", 
+        "imageUrl": "img/cars/opelvivaro1.jpg", 
+        "name": "Opel Vivaro 2013", 
+        "snippet": "Минивэн, представленный General Motors под маркой Opel и Vauxhall,\n\nв 2006 году Vivaro получил награду Минивэн года в Великобритании.",
+        "status": true
+    }, 
+    {
+        "age": 2, 
+        "carrier": "AT&amp;T", 
+        "id": "opel-insignia", 
+        "imageUrl": "img/cars/opelinsignia1.jpg", 
+        "name": "Opel Insignia 2011", 
+        "snippet": "Автомобиль среднего класса компании Opel, пришедший на смену Opel Vectra.",
+        "status": true
+    }, 
+    {
+        "age": 3, 
+        "id": "opel-vectra-c", 
+        "imageUrl": "img/cars/opelvectra1.jpg", 
+        "name": "Opel Vectra C 2007", 
+        "snippet": "С самого начала выпуска модели, Vectra C имеет полностью оцинкованный кузов. Передняя подвеска многорычажная с шаровыми опорами запрессованными в нижние рычаги подвески. Задняя подвеска независимая многорычажная.",
+        "status": true
+    }, 
+    {
+        "age": 4, 
+        "carrier": "Cellular South", 
+        "id": "opel-astra", 
+        "imageUrl": "img/cars/opelastra1.jpg", 
+        "name": "Opel Astra 2012", 
+        "snippet": "компактный автомобиль, разработанный и производимый немецкой компанией Adam Opel AG. Astra  является продолжением линейки моделей Opel Kadett.",
+        "status": true
+    }, 
+    {
+        "age": 5, 
+        "carrier": "BMW", 
+        "id": "bmw-six", 
+        "imageUrl": "img/cars/bmwsixgt1.jpg", 
+        "name": "BMW 6 Series GT 640i AT 2015", 
+        "snippet": "Автомобиль серии купе бизнес-класса. Производство данной модели началось с 1976 года. Основным конкурентом для этой серии являются автомобили семейства Jaguar XK.",
+        "status": true
+    }, 
+    {
+        "age": 6, 
+        "carrier": "Best Buy", 
+        "id": "bmw-xfive", 
+        "imageUrl": "img/cars/bmwxfive1.jpg", 
+        "name": "BMW X5", 
+        "snippet": "Среднеразмерный кроссовер от немецкого автопроизводителя BMW.",
+        "status": true
+    }, 
+    {
+        "age": 7, 
+        "carrier": "Cellular South", 
+        "id": "bmw-third", 
+        "imageUrl": "img/cars/bmw320i1.jpg", 
+        "name": "BMW 320i 2008", 
+        "snippet": "Компактный автомобиль, выпускающийся немецким премиум-автопроизводителем BMW AG.",
+        "status": false
+    }, 
+    {
+        "age": 8, 
+        "id": "bmw-xsix", 
+        "imageUrl": "img/cars/bmwxsix1.jpg", 
+        "name": "BMW X6 2016", 
+        "snippet": "Среднеразмерный кроссовер, выпускаемый компанией BMW. Он сочетает в себе как признаки внедорожника, так и признаки купе.",
+        "status": true
+    }, 
+    {
+        "age": 9, 
+        "carrier": "Cellular South", 
+        "id": "bmw-thirdm", 
+        "imageUrl": "img/cars/bmw320m1.jpg", 
+        "name": "BMW 320M 2000", 
+        "snippet": "Седан появился в 1998 году и заменил предыдущую модель E36 и был разработан под руководством Криса Бэнгла.",
+        "status": true
+    }, 
+    {
+        "age": 10, 
+        "carrier": "Verizon", 
+        "id": "nissan-sentra", 
+        "imageUrl": "img/cars/nissansentra1.jpg", 
+        "name": "Nissan Sentra 2017", 
+        "snippet": "Компактный автомобиль, производящийся японским автопроизводителем Nissan Motors, является экспортной версией японской Nissan Sunny.",
+        "status": true
+    }, 
+    {
+        "age": 11, 
+        "carrier": "Verizon", 
+        "id": "nissan-qashqai", 
+        "imageUrl": "img/cars/nissanqash1.jpg", 
+        "name": "Nissan Qashqai 2015", 
+        "snippet": "Компактный кроссовер, запущенный в массовое производство в конце декабря 2006 года.",
+        "status": true
+    }, 
+    {
+        "age": 12, 
+        "carrier": "AT&amp;T", 
+        "id": "nissan-juke", 
+        "imageUrl": "img/cars/nissanjuke1.jpg", 
+        "name": "Nissan Juke 2014", 
+        "snippet": "Автомобиль построен на платформе «Nissan V», которую разделяет с «Nissan Micra» четвёртого поколения.",
+        "status": true
+    }, 
+    {
+        "age": 13, 
+        "carrier": "T-Mobile", 
+        "id": "nissan-leaf", 
+        "imageUrl": "img/cars/nissanleaf1.jpg", 
+        "name": "Nissan LEAF 2017", 
+        "snippet": "Электромобиль японского концерна Nissan, серийно выпускаемый с весны 2010 года.",
+        "status": false
+    }, 
+    {
+        "age": 14, 
+        "carrier": "T-Mobile", 
+        "id": "nissan-pixo", 
+        "imageUrl": "img/cars/nissanpixo1.jpg", 
+        "name": "Nissan Pixo 2015", 
+        "snippet": "Городской автомобиль, производившийся для европейских рынков Nissan в Индии с 2009 по 2013 годы. Является изменённой версией Suzuki Alto четвёртого поколения.",
+        "status": true
+    }, 
+    {
+        "age": 15, 
+        "carrier": "US Cellular", 
+        "id": "honda-acord", 
+        "imageUrl": "img/cars/hondaaccord1.jpg", 
+        "name": "Honda Acord 2014", 
+        "snippet": "Среднеразмерный (до 1989 года — компактный) автомобиль, выпускающийся японским производителем Honda с 1976 года.",
+        "status": false
+    }, 
+    {
+        "age": 16, 
+        "carrier": "Sprint", 
+        "id": "honda-crv", 
+        "imageUrl": "img/cars/hondacrv1.jpg", 
+        "name": "Honda CR-V 2017", 
+        "snippet": "Компактный кроссовер, выпускающийся компанией Honda с 1995 года.",
+        "status": true
+    }, 
+    {
+        "age": 17, 
+        "id": "honda-pilot", 
+        "imageUrl": "img/cars/hondapilot1.jpg", 
+        "name": "Honda Pilot 2014", 
+        "snippet": "Среднеразмерный кроссовер производства Honda, впервые представленный в 2002 году.",
+        "status": true
+    }
+]

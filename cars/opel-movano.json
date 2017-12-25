@@ -1,0 +1,64 @@
+{
+    "additionalFeatures": "LED-огни Кондиционер,электростеклоподьемники", 
+    "engine": {
+        "ob": "2.0", 
+        "type": "Бензин"
+    }, 
+    "availability": [
+        "Полная"
+    ], 
+    "battery": {
+        "standbyTime": "150 Ач", 
+        "talkTime": "1 год", 
+        "type": "A-mega"
+    }, 
+    "trmiss": {
+        "features": [
+            "Полный"
+        ], 
+        "primary": "Автомат"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "", 
+        "gps": true, 
+        "infrared": true, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "Opel Movano второго поколения представлен в 2010 году, автомобиль комплектуется современными дизельными двигателями 2,3 CDTI различной мощности, которые соответствуют требованиям Евро 4 или Евро 5, в зависимости от версии исполнения, привод может быть либо передним или задним, на выбор предлагается большой выбор вариантов кузова.", 
+    "hodov": {
+        "torpered": "Дисковые вентилируемые", 
+        "torzad": "Дисковые", 
+        "podveska": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "Максимальный", 
+        "mag": "1 GHz Dual Core Tegra 2", 
+        "fmRadio": true, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "opel-movano", 
+    "images": [
+        "img/cars/opelmovano1.jpg", 
+        "img/cars/opelmovano2.jpg", 
+        "img/cars/opelmovano3.jpg", 
+        "img/cars/opelmovano4.jpg", 
+        "img/cars/opelmovano5.jpg", 
+        "img/cars/opelmovano6.jpg"
+    ], 
+    "name": "Opel Movano", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "4697 мм", 
+            "1882 мм", 
+            "1676 мм"
+        ], 
+        "weight": "2 т"
+    }, 
+    "storage": {
+        "probeg": "100 км", 
+        "maxprobeg": "1000 км"
+    }
+}

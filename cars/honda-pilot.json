@@ -1,0 +1,64 @@
+{
+    "additionalFeatures": "LED-огни Кондиционер,электростеклоподьемники", 
+    "engine": {
+        "ob": "2.0", 
+        "type": "Бензин"
+    }, 
+    "availability": [
+        "Полная"
+    ], 
+    "battery": {
+        "standbyTime": "150 Ач", 
+        "talkTime": "1 год", 
+        "type": "A-mega"
+    }, 
+    "trmiss": {
+        "features": [
+            "Полный"
+        ], 
+        "primary": "Автомат"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "", 
+        "gps": true, 
+        "infrared": true, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "Honda Pilot — среднеразмерный (до 1989 года — компактный) автомобиль, выпускающийся японским производителем Honda с 1976 года. С момента начала продаж в одних только Соединённых Штатах продано более 8 000 000 седанов.", 
+    "hodov": {
+        "torpered": "Дисковые вентилируемые", 
+        "torzad": "Дисковые", 
+        "podveska": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "Максимальный", 
+        "mag": "1 GHz Dual Core Tegra 2", 
+        "fmRadio": true, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "honda-pilot", 
+    "images": [
+        "img/cars/hondapilot1.jpg", 
+        "img/cars/hondapilot2.jpg", 
+        "img/cars/hondapilot3.jpg", 
+        "img/cars/hondapilot4.jpg", 
+        "img/cars/hondapilot5.jpg", 
+        "img/cars/hondapilot6.jpg"
+    ], 
+    "name": "Honda Pilot", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "4697 мм", 
+            "1882 мм", 
+            "1676 мм"
+        ], 
+        "weight": "2 т"
+    }, 
+    "storage": {
+        "probeg": "100 км", 
+        "maxprobeg": "1000 км"
+    }
+}

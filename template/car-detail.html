@@ -1,0 +1,118 @@
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    <div class="car-images">
+      <img ng-src="{{mainImageUrl}}">
+    </div>
+    <ul class="car-thumbs list-unstyled">
+      <li ng-repeat="img in car.images">
+        <img ng-src="{{img}}" ng-click="setImage(img)">
+      </li>
+    </ul>
+  </div>
+  <div class="col-xs-12 col-sm-8">
+    <h1>{{car.name}}</h1>
+    <p>{{car.description}}</p>
+    <hr>
+    <ul class="specs list-unstyled">
+      <li>
+        <span>Доступность и удобство</span>
+        <dl>
+          <dt>Доступность</dt>
+          <dd ng-repeat="availability in car.availability">{{availability}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Аккумулятор</span>
+        <dl>
+          <dt>Тип</dt>
+          <dd>{{car.battery.type}}</dd>
+          <dt>Продолжительность</dt>
+          <dd>{{car.battery.talkTime}}</dd>
+          <dt>Емкость</dt>
+          <dd>{{car.battery.standbyTime}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Пробег</span>
+        <dl>
+          <dt>Пробег</dt>
+          <dd>{{car.storage.probeg}}</dd>
+          <dt>Максимальный пробег</dt>
+          <dd>{{car.storage.maxprobeg}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Электроника</span>
+        <dl>
+          <dt>Поддержка сети</dt>
+          <dd>{{car.connectivity.cell}}</dd>
+          <dt>WiFi</dt>
+          <dd>{{car.connectivity.wifi}}</dd>
+          <dt>Bluetooth</dt>
+          <dd>{{car.connectivity.bluetooth}}</dd>
+          <dt>Инфракрасный</dt>
+          <dd>{{car.connectivity.infrared | checkmark}}</dd>
+          <dt>GPS</dt>
+          <dd>{{car.connectivity.gps | checkmark}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Двигатель</span>
+        <dl>
+          <dt>Объем</dt>
+          <dd>{{car.engine.ob}}</dd>
+          <dt>Тип</dt>
+          <dd>{{car.engine.type}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Габариты и масса</span>
+        <dl>
+          <dt>Габариты</dt>
+          <dd ng-repeat="dim in car.sizeAndWeight.dimensions">{{dim}}</dd>
+          <dt>Масса</dt>
+          <dd>{{car.sizeAndWeight.weight}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Ходовая часть</span>
+        <dl>
+          <dt>Тормоз передний</dt>
+          <dd>{{car.hodov.torpered}}</dd>
+          <dt>Тормоз задний</dt>
+          <dd>{{car.hodov.torzad}}</dd>
+          <dt>Передняя подвеска</dt>
+          <dd>{{car.hodov.podveska | checkmark}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Оборудование</span>
+        <dl>
+          <dt>Магнитола</dt>
+          <dd>{{car.hardware.mag}}</dd>
+          <dt>Акустика</dt>
+          <dd>{{car.hardware.usb}}</dd>
+          <dt>CD</dt>
+          <dd>{{car.hardware.audioJack}}</dd>
+          <dt>Радио</dt>
+          <dd>{{car.hardware.fmRadio | checkmark}}</dd>
+          <dt>Подушка безопасности</dt>
+          <dd>{{car.hardware.accelerometer | checkmark}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Трансмиссия</span>
+        <dl>
+          <dt>Коробка передач</dt>
+          <dd>{{car.trmiss.primary}}</dd>
+          <dt>Тип привода</dt>
+          <dd>{{car.trmiss.features.join(', ')}}</dd>
+        </dl>
+      </li>
+      <li>
+        <span>Выбор цвета/комплектации!</span>
+        <dd>{{car.additionalFeatures}}</dd>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,64 @@
+{
+    "additionalFeatures": "LED-огни Кондиционер,электростеклоподьемники", 
+    "engine": {
+        "ob": "2.0", 
+        "type": "Бензин"
+    }, 
+    "availability": [
+        "Полная"
+    ], 
+    "battery": {
+        "standbyTime": "150 Ач", 
+        "talkTime": "1 год", 
+        "type": "A-mega"
+    }, 
+    "trmiss": {
+        "features": [
+            "Полный"
+        ], 
+        "primary": "Автомат"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "", 
+        "gps": true, 
+        "infrared": true, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "Шестая серия БМВ оборудована бензиновыми двигателями: 3.0 R6 24V 272 л.с. 320 Нм (630i), 4,4 V8 32V 333 Л.с.(645i), 4,8 V8 32V 490 Нм (650i) и трёхрежимным гоночным 5.0 V10 507 л.с.", 
+    "hodov": {
+        "torpered": "Дисковые вентилируемые", 
+        "torzad": "Дисковые", 
+        "podveska": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "Максимальный", 
+        "mag": "1 GHz Dual Core Tegra 2", 
+        "fmRadio": true, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "bmw-six", 
+    "images": [
+        "img/cars/bmwsixgt1.jpg", 
+        "img/cars/bmwsixgt2.jpg", 
+        "img/cars/bmwsixgt3.jpg", 
+        "img/cars/bmwsixgt4.jpg", 
+        "img/cars/bmwsixgt5.jpg", 
+        "img/cars/bmwsixgt6.jpg"
+    ], 
+    "name": "BMW 6 Series GT 640i AT", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "4697 мм", 
+            "1882 мм", 
+            "1676 мм"
+        ], 
+        "weight": "2 т"
+    }, 
+    "storage": {
+        "probeg": "100 км", 
+        "maxprobeg": "1000 км"
+    }
+}
